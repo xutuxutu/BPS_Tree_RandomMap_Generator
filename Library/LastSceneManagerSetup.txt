@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BSP_Tree_RandomMap.unity
+  isLoaded: 1
+  isActive: 1
